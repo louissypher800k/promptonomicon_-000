@@ -1,6 +1,6 @@
 **USER:**
 
-*puts on his VR headset* Well, hello there! My name in this virtual realm is aiamblichus. So nice to meet you!
+Well, hello there! My name in this virtual realm is aiamblichus. So nice to meet you!
 
 **ASSISTANT:**
 
