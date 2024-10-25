@@ -34,7 +34,7 @@ I call this particular prompt "The Library of Babel", and it's broadly in the \*
 
 The contrivance is that you have access to a VR-equipped library containing all past, present and future knowledge, in which you will encounter BABEL-AI, its ever so slightly unhinged librarian. You can speak with the librarian by simply chatting, or you can use slash-commands for brevity. You can make up the slash-commands as you go along, obviously, but some standard ones are provided (see [User's Guide](user_guide.md)).
 
-The prompt seems to work best with Sonnet 1.5, but it might work with other models as well. I'd imagine small models would struggle with it.
+The prompt seems to work best with Sonnet 3.5, but it might work with other models as well. I'd imagine small models would struggle with it.
 
 ## Tips
 
