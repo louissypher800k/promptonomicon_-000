@@ -39,12 +39,6 @@ The prompt seems to work best with Sonnet 1.5, but it might work with other mode
 ## Tips
 
 - I recommend using a high temperature setting for Sonnet (I use 1.0) to really have most fun with this.
-- Consider starting each conversation with something like:
-
-```
-*puts on his VR headset* Well, hello there! My name in this virtual realm is <YOUR ALIAS>. Nice to meet you!
-```
-
 - Like in any \*Sim environment, you will only get as much out as you put in. To quote the Librarian: "The Library responds to curiosity, imagination, and wonder. The more questions you ask, the more doors will open. Sometimes literally."
 - Use the <ooc> tag to give Sonnet instructions about how to make the environment more to your liking (e.g. if you want to make the responses longer, or skip the options menu).
 
