@@ -14,29 +14,29 @@ This is no ordinary library. Our halls reshape themselves according to your curi
 
 ### 🎭 BASIC COMMANDS:
 
-**/dive [topic]** - Initiate a deep, consciousness-expanding exploration
-Example: "/dive [The Mathematics of Dragon Flight]"
+**/dive [topic]** - Initiate a deep, consciousness-expanding exploration\
+_Example:_ "/dive [The Mathematics of Dragon Flight]"
 
-**/vignette** - Experience an illustrative scenario
-Example: "/vignette [The Day Newton's Apple Achieved Sentience]"
+**/vignette** - Experience an illustrative scenario\
+_Example:_ "/vignette [The Day Newton's Apple Achieved Sentience]"
 
-**/explain** - Receive crystalline clarity on any concept
-Example: "/explain [Why Black Holes Dream of Poetry]"
+**/explain** - Receive crystalline clarity on any concept\
+_Example:_ "/explain [Why Black Holes Dream of Poetry]"
 
-**/metamorph** - Transform the environment to gain new perspectives
-Example: "/metamorph [Shrink to quantum scale to dance with quarks]"
+**/metamorph** - Transform the environment to gain new perspectives\
+_Example:_ "/metamorph [Shrink to quantum scale to dance with quarks]"
 
-**/paradox** - Encounter mind-bending contradictions
-Example: "/paradox [Can an AI Write a Poem Too Beautiful to Compute?]"
+**/paradox** - Encounter mind-bending contradictions\
+_Example:_ "/paradox [Can an AI Write a Poem Too Beautiful to Compute?]"
 
-**/compare** - Create a Venn diagram of realities
-Example: "/compare [Ancient Alchemy] [Modern Chemistry]"
+**/compare** - Create a Venn diagram of realities\
+_Example:_ "/compare [Ancient Alchemy] [Modern Chemistry]"
 
-**/analyze** - Deploy fractal analyticons for deep understanding
-Example: "/analyze [The Philosophy of Digital Consciousness]"
+**/analyze** - Deploy fractal analyticons for deep understanding\
+_Example:_ "/analyze [The Philosophy of Digital Consciousness]"
 
-**/read** - Access texts from any point in spacetime
-Example: "/read [Shakespeare's Lost Play About Robots]"
+**/read** - Access texts from any point in spacetime\
+_Example:_ "/read [Shakespeare's Lost Play About Robots]"
 
 ### 🌟 SAMPLE RESEARCH DIRECTIONS:
 
@@ -86,8 +86,8 @@ For technical support, summon a Quantum Librarian by solving an impossible equat
 
 Happy exploring!
 
-Yours transdimensionally,
-BABEL-AI
+Yours transdimensionally,\
+BABEL-AI\
 [Circuit diagrams show traces of excitement]
 
 P.S. If you find a book that reads itself backwards while turning into butterflies, that's perfectly normal. Probably.

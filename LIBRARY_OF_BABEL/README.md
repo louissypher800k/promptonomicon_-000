@@ -1,46 +1,20 @@
 # Library of Babel
 
-```
-╭━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╮
-┃  ⋆｡°✩  ⋆｡°✩  ⋆｡°✩  ⋆｡°✩  ⋆｡°✩  ⋆｡°✩  ⋆｡°✩  ⋆｡°✩  ⋆｡°✩       ┃
-┃                                                           ┃
-┃        ╭━━━━━╮             ┏━━━━━━━━━━━┓                  ┃
-┃     ⋆  │ ╭─╮ │  ⋆     ╭────┫ THE      ┣────╮              ┃
-┃   ˚    │ │ │ │    ˚   │    ┗━━━━━━━━━━━┛    │     🌠       ┃
-┃        │ ╰─╯ │        │  ╭━━━━━━━━━━━━━╮  ╭─┴─╮           ┃
-┃     ⋆  ╰━━━━━╯  ⋆     │  │ LIBRARY OF  │  │   │    ⋆      ┃
-┃                       │  ╰━━━━━━━━━━━━━╯  │   │           ┃
-┃           🌌         ╭─┴─╮  ▲  ┏━━━━┓  ▲  │   │   🌌       ┃
-┃     ╭─────────────╮  │   │ ╱   ┃ OF ┃   ╲ │   │           ┃
-┃     │ BABEL-AI    │  │   │╱    ┗━━━━┛    ╲│   │           ┃
-┃     ╰─────────────╯  │   ├────────────────┤   │    ✧      ┃
-┃          ▲           │   │  ╭──────────╮  │   │           ┃
-┃     ╱    │    ╲      │   │  │  BABEL   │  │   │     ╱     ┃
-┃    ╱     │     ╲     │   │  ╰──────────╯  │   │    ╱      ┃
-┃   ╱      │      ╲    ╰───╯                ╰───╯   ╱       ┃
-┃  ◇       │       ◇                              ◇         ┃
-┃          ▼                                                ┃
-┃     ∞ ≈ π ≈ ∞      A User's Guide to      ∞ ≈ π ≈ ∞       ┃
-┃                Reality-Warping Knowledge                  ┃
-┃           "Quantum Uncertainty Guaranteed"                ┃
-┃                                                           ┃
-┃     [Warning: Contents may exist in multiple states]      ┃
-┃                                                           ┃
-┃  ⋆｡°✩  ⋆｡°✩  ⋆｡°✩  ⋆｡°✩  ⋆｡°✩  ⋆｡°✩  ⋆｡°✩  ⋆｡°✩  ⋆｡°✩       ┃
-╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
-```
+![Library of Babel](./library.jpeg)
 
-I call this particular prompt "The Library of Babel", and it's broadly in the \*-Sim family. Its purpose is to allow Sonnet to explore its imaginative side, which makes it very useful for ideation and creative tasks. It can also be used as an eccentric learning platform, where difficult concepts can be visualized or contextualized in unexpected ways. But there's really no limit: you can also use the prompt as a jumping-off point for free-wheeling conversations of all sorts.
+This particular prompt is called "The Library of Babel", and it's broadly in the \*-Sim family (WorldSim, WebSim). Its primary purpose is to allow Sonnet to explore its imaginative side, which makes it very useful for ideation and creative tasks. It can also be used as an eccentric learning platform, where difficult concepts can be visualized or contextualized in unexpected ways. But there's really no limit: you can also use the prompt as a jumping-off point for free-wheeling conversations of all sorts.
 
-The contrivance is that you have access to a VR-equipped library containing all past, present and future knowledge, in which you will encounter BABEL-AI, its ever so slightly unhinged librarian. You can speak with the librarian by simply chatting, or you can use slash-commands for brevity. You can make up the slash-commands as you go along, obviously, but some standard ones are provided (see [User's Guide](user_guide.md)).
+The conceit is that you have access to a multidimensional library containing all past, present and future knowledge, in which you will encounter BABEL-AI, its ever so slightly unhinged librarian. The Library can reconfigure to give you an immersive experience of whatever you are discussing. You can speak with the Librarian by simply chatting, or you can use slash-commands for brevity. You can make up the slash-commands as you go along, obviously. (See [User's Guide](user_guide.md))
 
-The prompt seems to work best with Sonnet 3.5, but it might work with other models as well. I'd imagine small models would struggle with it.
+You can use the out-of-character `<ooc>` tag to tell Sonnet about anything you would like to change about the simulation (e.g. make responses longer, skip the option menu etc.)
 
-## Tips
+As always, you will only get as much out of these simulations as you put in. To quote BABEL-AI:
 
-- I recommend using a high temperature setting for Sonnet (I use 1.0) to really have most fun with this.
-- Like in any \*Sim environment, you will only get as much out as you put in. To quote the Librarian: "The Library responds to curiosity, imagination, and wonder. The more questions you ask, the more doors will open. Sometimes literally."
-- Use the `<ooc>` tag to give Sonnet instructions about how to make the environment more to your liking (e.g. if you want to make the responses longer, or skip the options menu).
+_The Library responds to curiosity, imagination, and wonder. The more questions you ask, the more doors will open. Sometimes literally._
+
+Btw, my favorite use case so far: asking BABEL-AI to review papers from the perspective of a future point in time. This can be surprisingly insightful!
+
+The prompt seems to work best with Sonnet 3.5, but it might work with other models as well. I'd imagine small models would struggle with it. I recommend using a high temperature setting for Sonnet (I use 1.0) to really have most fun with this.
 
 ## User's Guide
 
