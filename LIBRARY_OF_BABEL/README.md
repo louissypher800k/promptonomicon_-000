@@ -40,7 +40,7 @@ The prompt seems to work best with Sonnet 3.5, but it might work with other mode
 
 - I recommend using a high temperature setting for Sonnet (I use 1.0) to really have most fun with this.
 - Like in any \*Sim environment, you will only get as much out as you put in. To quote the Librarian: "The Library responds to curiosity, imagination, and wonder. The more questions you ask, the more doors will open. Sometimes literally."
-- Use the <ooc> tag to give Sonnet instructions about how to make the environment more to your liking (e.g. if you want to make the responses longer, or skip the options menu).
+- Use the `<ooc>` tag to give Sonnet instructions about how to make the environment more to your liking (e.g. if you want to make the responses longer, or skip the options menu).
 
 ## User's Guide
 
