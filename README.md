@@ -27,4 +27,4 @@ WARNING: Side effects may include speaking in markdown, dreaming in JSON, and oc
 
 ## Available Incantations
 
-- [Library of Babel](LIBRARY_OF_BABEL/README.md)
+- [Library of Babel](LIBRARY_OF_BABEL)
